@@ -1,0 +1,3275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "15351",
+        "stop_code": null,
+        "stop_name": "Sunbury Railway Station (Sunbury)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.727319,
+          -37.579091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "15353",
+        "stop_code": null,
+        "stop_name": "Diggers Rest Railway Station (Diggers Rest)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.719922,
+          -37.627017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19827",
+        "stop_code": null,
+        "stop_name": "Stony Point Railway Station (Crib Point)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.221837,
+          -38.374235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19828",
+        "stop_code": null,
+        "stop_name": "Crib Point Railway Station (Crib Point)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.204043,
+          -38.366123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19829",
+        "stop_code": null,
+        "stop_name": "Morradoo Railway Station (Crib Point)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.189602,
+          -38.354033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19830",
+        "stop_code": null,
+        "stop_name": "Bittern Railway Station (Bittern)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.178027,
+          -38.33739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19831",
+        "stop_code": null,
+        "stop_name": "Hastings Railway Station (Hastings)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.18598,
+          -38.305659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19832",
+        "stop_code": null,
+        "stop_name": "Tyabb Railway Station (Tyabb)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.186401,
+          -38.259815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19833",
+        "stop_code": null,
+        "stop_name": "Somerville Railway Station (Somerville)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.176245,
+          -38.225342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19834",
+        "stop_code": null,
+        "stop_name": "Baxter Railway Station (Baxter)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.160526,
+          -38.194043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19835",
+        "stop_code": null,
+        "stop_name": "Glen Iris Railway Station (Glen Iris)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.058225,
+          -37.859308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19836",
+        "stop_code": null,
+        "stop_name": "Leawarra Railway Station (Frankston)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.139534,
+          -38.152034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19837",
+        "stop_code": null,
+        "stop_name": "Darling Railway Station (Malvern East)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.062951,
+          -37.868957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19838",
+        "stop_code": null,
+        "stop_name": "East Malvern Railway Station (Malvern East)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.069393,
+          -37.87693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19839",
+        "stop_code": null,
+        "stop_name": "Holmesglen Railway Station (Malvern East)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.090662,
+          -37.874402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19840",
+        "stop_code": null,
+        "stop_name": "Jordanville Railway Station (Mount Waverley)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.11209,
+          -37.873603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19841",
+        "stop_code": null,
+        "stop_name": "Flagstaff Railway Station (Melbourne City)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.955654,
+          -37.811981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19842",
+        "stop_code": null,
+        "stop_name": "Melbourne Central Railway Station (Melbourne City)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.962594,
+          -37.809939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19843",
+        "stop_code": null,
+        "stop_name": "Parliament Railway Station (Melbourne City)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.972911,
+          -37.811054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19844",
+        "stop_code": null,
+        "stop_name": "Belgrave Railway Station (Belgrave)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.355291,
+          -37.909102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19845",
+        "stop_code": null,
+        "stop_name": "Tecoma Railway Station (Tecoma)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.342995,
+          -37.908118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19846",
+        "stop_code": null,
+        "stop_name": "Upwey Railway Station (Upwey)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.331333,
+          -37.903691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19847",
+        "stop_code": null,
+        "stop_name": "Alamein Railway Station (Ashburton)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.079656,
+          -37.86832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19848",
+        "stop_code": null,
+        "stop_name": "Ashburton Railway Station (Ashburton)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.081344,
+          -37.861968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19849",
+        "stop_code": null,
+        "stop_name": "Burwood Railway Station (Glen Iris)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.080511,
+          -37.851563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19850",
+        "stop_code": null,
+        "stop_name": "Hartwell Railway Station (Camberwell)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.07556,
+          -37.843985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19851",
+        "stop_code": null,
+        "stop_name": "Willison Railway Station (Camberwell)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.070298,
+          -37.835716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19852",
+        "stop_code": null,
+        "stop_name": "Riversdale Railway Station (Camberwell)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.069646,
+          -37.831505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19853",
+        "stop_code": null,
+        "stop_name": "Camberwell Railway Station (Camberwell)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.058697,
+          -37.826567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19854",
+        "stop_code": null,
+        "stop_name": "Flinders Street Railway Station (Melbourne City)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.966964,
+          -37.818305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19855",
+        "stop_code": null,
+        "stop_name": "Frankston Railway Station (Frankston)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.126162,
+          -38.14299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19856",
+        "stop_code": null,
+        "stop_name": "Kananook Railway Station (Seaford)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.135295,
+          -38.121742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19857",
+        "stop_code": null,
+        "stop_name": "Seaford Railway Station (Seaford)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.12823,
+          -38.104021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19858",
+        "stop_code": null,
+        "stop_name": "Carrum Railway Station (Carrum)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.122418,
+          -38.074893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19859",
+        "stop_code": null,
+        "stop_name": "Bonbeach Railway Station (Bonbeach)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.11968,
+          -38.062945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19860",
+        "stop_code": null,
+        "stop_name": "Chelsea Railway Station (Chelsea)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.116041,
+          -38.051955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19861",
+        "stop_code": null,
+        "stop_name": "Edithvale Railway Station (Edithvale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.108536,
+          -38.038056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19862",
+        "stop_code": null,
+        "stop_name": "Aspendale Railway Station (Aspendale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.10215,
+          -38.02722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19863",
+        "stop_code": null,
+        "stop_name": "Mordialloc Railway Station (Mordialloc)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.087659,
+          -38.006583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19864",
+        "stop_code": null,
+        "stop_name": "Parkdale Railway Station (Parkdale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.076327,
+          -37.993079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19865",
+        "stop_code": null,
+        "stop_name": "Mentone Railway Station (Mentone)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.065166,
+          -37.981865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19866",
+        "stop_code": null,
+        "stop_name": "Cheltenham Railway Station (Cheltenham)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.054558,
+          -37.96665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19867",
+        "stop_code": null,
+        "stop_name": "Upper Ferntree Gully Railway Station (Upper Ferntree Gully)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.30753,
+          -37.892672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19868",
+        "stop_code": null,
+        "stop_name": "Ferntree Gully Railway Station (Ferntree Gully)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.295251,
+          -37.881698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19869",
+        "stop_code": null,
+        "stop_name": "Boronia Railway Station (Boronia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.284385,
+          -37.860452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19870",
+        "stop_code": null,
+        "stop_name": "Bayswater Railway Station (Bayswater)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.268136,
+          -37.84173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19871",
+        "stop_code": null,
+        "stop_name": "Heathmont Railway Station (Heathmont)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.244555,
+          -37.828322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19872",
+        "stop_code": null,
+        "stop_name": "Highett Railway Station (Highett)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.041872,
+          -37.948425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19873",
+        "stop_code": null,
+        "stop_name": "Glen Waverley Railway Station (Glen Waverley)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.162058,
+          -37.879504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19874",
+        "stop_code": null,
+        "stop_name": "Syndal Railway Station (Glen Waverley)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.14978,
+          -37.87623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19875",
+        "stop_code": null,
+        "stop_name": "Mount Waverley Railway Station (Mount Waverley)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.128056,
+          -37.875255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19876",
+        "stop_code": null,
+        "stop_name": "Lilydale Railway Station (Lilydale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34771,
+          -37.755518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19877",
+        "stop_code": null,
+        "stop_name": "Mooroolbark Railway Station (Mooroolbark)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.312402,
+          -37.784749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19878",
+        "stop_code": null,
+        "stop_name": "Croydon Railway Station (Croydon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.280598,
+          -37.795437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19879",
+        "stop_code": null,
+        "stop_name": "Ringwood East Railway Station (Ringwood East)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.250191,
+          -37.811968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19880",
+        "stop_code": null,
+        "stop_name": "Pakenham Railway Station (Pakenham)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.486379,
+          -38.080614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19881",
+        "stop_code": null,
+        "stop_name": "Officer Railway Station (Officer)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.410987,
+          -38.066146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19882",
+        "stop_code": null,
+        "stop_name": "Beaconsfield Railway Station (Beaconsfield)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.366074,
+          -38.050831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19883",
+        "stop_code": null,
+        "stop_name": "Berwick Railway Station (Berwick)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.345726,
+          -38.040408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19884",
+        "stop_code": null,
+        "stop_name": "Narre Warren Railway Station (Narre Warren)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.303969,
+          -38.027809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19885",
+        "stop_code": null,
+        "stop_name": "Hallam Railway Station (Hallam)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.269777,
+          -38.01774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19886",
+        "stop_code": null,
+        "stop_name": "Cranbourne Railway Station (Cranbourne)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.280599,
+          -38.099537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19887",
+        "stop_code": null,
+        "stop_name": "Merinda Park Railway Station (Cranbourne North)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.263511,
+          -38.079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19888",
+        "stop_code": null,
+        "stop_name": "Dandenong Railway Station (Dandenong)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.209725,
+          -37.989968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19889",
+        "stop_code": null,
+        "stop_name": "Yarraman Railway Station (Noble Park)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1916,
+          -37.978255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19890",
+        "stop_code": null,
+        "stop_name": "Noble Park Railway Station (Noble Park)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.176936,
+          -37.967232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19891",
+        "stop_code": null,
+        "stop_name": "Sandown Park Railway Station (Springvale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.162826,
+          -37.956505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19892",
+        "stop_code": null,
+        "stop_name": "East Camberwell Railway Station (Camberwell)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.06819,
+          -37.825894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19893",
+        "stop_code": null,
+        "stop_name": "Canterbury Railway Station (Canterbury)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.081224,
+          -37.824485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19894",
+        "stop_code": null,
+        "stop_name": "Chatham Railway Station (Surrey Hills)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.088648,
+          -37.8243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19895",
+        "stop_code": null,
+        "stop_name": "Surrey Hills Railway Station (Surrey Hills)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.098775,
+          -37.824148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19896",
+        "stop_code": null,
+        "stop_name": "Mont Albert Railway Station (Mont Albert)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.10553,
+          -37.819427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19897",
+        "stop_code": null,
+        "stop_name": "Laburnum Railway Station (Blackburn)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.140703,
+          -37.82078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19898",
+        "stop_code": null,
+        "stop_name": "Blackburn Railway Station (Blackburn)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.150014,
+          -37.820071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19899",
+        "stop_code": null,
+        "stop_name": "Nunawading Railway Station (Nunawading)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.174892,
+          -37.820603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19900",
+        "stop_code": null,
+        "stop_name": "Mitcham Railway Station (Mitcham)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.191974,
+          -37.81801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19901",
+        "stop_code": null,
+        "stop_name": "Heatherdale Railway Station (Mitcham)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.212787,
+          -37.818895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19902",
+        "stop_code": null,
+        "stop_name": "Ringwood Railway Station (Ringwood)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.228968,
+          -37.815886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19903",
+        "stop_code": null,
+        "stop_name": "Auburn Railway Station (Hawthorn East)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.045844,
+          -37.822398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19904",
+        "stop_code": null,
+        "stop_name": "Glenferrie Railway Station (Hawthorn)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.036439,
+          -37.821467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19905",
+        "stop_code": null,
+        "stop_name": "Hawthorn Railway Station (Hawthorn)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.022899,
+          -37.821826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19906",
+        "stop_code": null,
+        "stop_name": "Burnley Railway Station (Burnley)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.007555,
+          -37.82756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19907",
+        "stop_code": null,
+        "stop_name": "East Richmond Railway Station (Richmond)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.997066,
+          -37.8264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19908",
+        "stop_code": null,
+        "stop_name": "Richmond Railway Station (Richmond)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.990164,
+          -37.824074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19909",
+        "stop_code": null,
+        "stop_name": "Heyington Railway Station (Toorak)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.022635,
+          -37.834672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19910",
+        "stop_code": null,
+        "stop_name": "Kooyong Railway Station (Kooyong)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.033552,
+          -37.839929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19911",
+        "stop_code": null,
+        "stop_name": "Tooronga Railway Station (Malvern)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.041734,
+          -37.849366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19912",
+        "stop_code": null,
+        "stop_name": "Gardiner Railway Station (Glen Iris)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.051655,
+          -37.853279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19913",
+        "stop_code": null,
+        "stop_name": "Springvale Railway Station (Springvale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.153452,
+          -37.949509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19914",
+        "stop_code": null,
+        "stop_name": "Westall Railway Station (Clayton South)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.138833,
+          -37.938491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19915",
+        "stop_code": null,
+        "stop_name": "Clayton Railway Station (Clayton)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.120534,
+          -37.924683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19916",
+        "stop_code": null,
+        "stop_name": "Huntingdale Railway Station (Oakleigh)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.102364,
+          -37.911017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19917",
+        "stop_code": null,
+        "stop_name": "Oakleigh Railway Station (Oakleigh)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.088308,
+          -37.900372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19918",
+        "stop_code": null,
+        "stop_name": "Hughesdale Railway Station (Hughesdale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.077635,
+          -37.894881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19919",
+        "stop_code": null,
+        "stop_name": "Murrumbeena Railway Station (Murrumbeena)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.067375,
+          -37.890198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19920",
+        "stop_code": null,
+        "stop_name": "Carnegie Railway Station (Carnegie)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.058575,
+          -37.886241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19921",
+        "stop_code": null,
+        "stop_name": "Werribee Railway Station (Werribee)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.661118,
+          -37.899378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19922",
+        "stop_code": null,
+        "stop_name": "Hoppers Crossing Railway Station (Hoppers Crossing)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.700955,
+          -37.883276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19923",
+        "stop_code": null,
+        "stop_name": "Laverton Railway Station (Laverton)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.772617,
+          -37.863694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19924",
+        "stop_code": null,
+        "stop_name": "Aircraft Railway Station (Laverton)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.760809,
+          -37.866606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19925",
+        "stop_code": null,
+        "stop_name": "Westona Railway Station (Altona)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.813494,
+          -37.865163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19926",
+        "stop_code": null,
+        "stop_name": "Altona Railway Station (Altona)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.829645,
+          -37.867148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19927",
+        "stop_code": null,
+        "stop_name": "Seaholme Railway Station (Seaholme)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.840958,
+          -37.867842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19928",
+        "stop_code": null,
+        "stop_name": "Westgarth Railway Station (Northcote)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.999233,
+          -37.780621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19929",
+        "stop_code": null,
+        "stop_name": "Dennis Railway Station (Northcote)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.008242,
+          -37.779187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19930",
+        "stop_code": null,
+        "stop_name": "Fairfield Railway Station (Fairfield)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.016905,
+          -37.779171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19931",
+        "stop_code": null,
+        "stop_name": "Alphington Railway Station (Alphington)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.031255,
+          -37.778394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19932",
+        "stop_code": null,
+        "stop_name": "Darebin Railway Station (Ivanhoe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.038476,
+          -37.774963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19933",
+        "stop_code": null,
+        "stop_name": "Ivanhoe Railway Station (Ivanhoe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.045425,
+          -37.768897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19934",
+        "stop_code": null,
+        "stop_name": "Eaglemont Railway Station (Eaglemont)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.053943,
+          -37.763586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19935",
+        "stop_code": null,
+        "stop_name": "Heidelberg Railway Station (Heidelberg)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.060686,
+          -37.757073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19936",
+        "stop_code": null,
+        "stop_name": "Rosanna Railway Station (Rosanna)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.06614,
+          -37.742879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19937",
+        "stop_code": null,
+        "stop_name": "Moorabbin Railway Station (Moorabbin)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.036738,
+          -37.934353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19938",
+        "stop_code": null,
+        "stop_name": "Patterson Railway Station (Bentleigh)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.03547,
+          -37.925149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19939",
+        "stop_code": null,
+        "stop_name": "Bentleigh Railway Station (Bentleigh)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.036995,
+          -37.917425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19940",
+        "stop_code": null,
+        "stop_name": "McKinnon Railway Station (Mckinnon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.038299,
+          -37.910309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19941",
+        "stop_code": null,
+        "stop_name": "Ormond Railway Station (Ormond)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.039613,
+          -37.903212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19942",
+        "stop_code": null,
+        "stop_name": "Glenhuntly Railway Station (Glen Huntly)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.042223,
+          -37.889719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19943",
+        "stop_code": null,
+        "stop_name": "Caulfield Railway Station (Caulfield East)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.042525,
+          -37.877459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19944",
+        "stop_code": null,
+        "stop_name": "Malvern Railway Station (Malvern)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.029294,
+          -37.866253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19945",
+        "stop_code": null,
+        "stop_name": "Armadale Railway Station (Armadale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.019326,
+          -37.856452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19946",
+        "stop_code": null,
+        "stop_name": "Toorak Railway Station (Armadale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.013909,
+          -37.850774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19947",
+        "stop_code": null,
+        "stop_name": "Hawksburn Railway Station (South Yarra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.002142,
+          -37.844591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19948",
+        "stop_code": null,
+        "stop_name": "Sandringham Railway Station (Sandringham)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.004561,
+          -37.95033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19949",
+        "stop_code": null,
+        "stop_name": "Hampton Railway Station (Hampton)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.001471,
+          -37.937977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19950",
+        "stop_code": null,
+        "stop_name": "Brighton Beach Railway Station (Brighton)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.989154,
+          -37.926484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19951",
+        "stop_code": null,
+        "stop_name": "Middle Brighton Railway Station (Brighton)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.996299,
+          -37.915134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19952",
+        "stop_code": null,
+        "stop_name": "North Brighton Railway Station (Brighton)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.002605,
+          -37.904887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19953",
+        "stop_code": null,
+        "stop_name": "Gardenvale Railway Station (Brighton)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.004168,
+          -37.896695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19954",
+        "stop_code": null,
+        "stop_name": "Elsternwick Railway Station (Elsternwick)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.000898,
+          -37.884753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19955",
+        "stop_code": null,
+        "stop_name": "Ripponlea Railway Station (Ripponlea)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.995237,
+          -37.875906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19956",
+        "stop_code": null,
+        "stop_name": "Balaclava Railway Station (Balaclava)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.993512,
+          -37.869488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19957",
+        "stop_code": null,
+        "stop_name": "Windsor Railway Station (Windsor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.992035,
+          -37.856053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19958",
+        "stop_code": null,
+        "stop_name": "Prahran Railway Station (Prahran)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98986,
+          -37.849518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19959",
+        "stop_code": null,
+        "stop_name": "South Yarra Railway Station (South Yarra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.992342,
+          -37.838449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19960",
+        "stop_code": null,
+        "stop_name": "Upfield Railway Station (Coolaroo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94674,
+          -37.666078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19961",
+        "stop_code": null,
+        "stop_name": "Gowrie Railway Station (Glenroy)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.958874,
+          -37.700678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19962",
+        "stop_code": null,
+        "stop_name": "Fawkner Railway Station (Fawkner)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.960545,
+          -37.714621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19963",
+        "stop_code": null,
+        "stop_name": "Merlynston Railway Station (Coburg North)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.961314,
+          -37.720934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19964",
+        "stop_code": null,
+        "stop_name": "Batman Railway Station (Coburg North)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.962841,
+          -37.733523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19965",
+        "stop_code": null,
+        "stop_name": "Coburg Railway Station (Coburg)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.963336,
+          -37.742345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19966",
+        "stop_code": null,
+        "stop_name": "Moreland Railway Station (Coburg)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.961823,
+          -37.754485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19967",
+        "stop_code": null,
+        "stop_name": "Anstey Railway Station (Brunswick)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.960684,
+          -37.761242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19968",
+        "stop_code": null,
+        "stop_name": "Brunswick Railway Station (Brunswick)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.959587,
+          -37.767721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19969",
+        "stop_code": null,
+        "stop_name": "Jewell Railway Station (Brunswick)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.958717,
+          -37.774987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19970",
+        "stop_code": null,
+        "stop_name": "Royal Park Railway Station (Parkville)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.952301,
+          -37.781193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19971",
+        "stop_code": null,
+        "stop_name": "Flemington Bridge Railway Station (North Melbourne)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.939323,
+          -37.78814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19972",
+        "stop_code": null,
+        "stop_name": "Macaulay Railway Station (North Melbourne)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.936166,
+          -37.794267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19973",
+        "stop_code": null,
+        "stop_name": "North Melbourne Railway Station (West Melbourne)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94151,
+          -37.80631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19974",
+        "stop_code": null,
+        "stop_name": "Clifton Hill Railway Station (Clifton Hill)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.995417,
+          -37.788657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19975",
+        "stop_code": null,
+        "stop_name": "Victoria Park Railway Station (Abbotsford)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.994451,
+          -37.799158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19976",
+        "stop_code": null,
+        "stop_name": "Collingwood Railway Station (Abbotsford)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99375,
+          -37.804526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19977",
+        "stop_code": null,
+        "stop_name": "North Richmond Railway Station (Richmond)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9925,
+          -37.810398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19978",
+        "stop_code": null,
+        "stop_name": "West Richmond Railway Station (Richmond)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.991423,
+          -37.814949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19979",
+        "stop_code": null,
+        "stop_name": "Jolimont-MCG Railway Station (East Melbourne)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.984098,
+          -37.816527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19983",
+        "stop_code": null,
+        "stop_name": "Macleod Railway Station (Macleod)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.069143,
+          -37.726012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19984",
+        "stop_code": null,
+        "stop_name": "Watsonia Railway Station (Watsonia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.083793,
+          -37.710958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19985",
+        "stop_code": null,
+        "stop_name": "Greensborough Railway Station (Greensborough)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.108247,
+          -37.703954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19986",
+        "stop_code": null,
+        "stop_name": "Montmorency Railway Station (Montmorency)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.121516,
+          -37.715296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19987",
+        "stop_code": null,
+        "stop_name": "Eltham Railway Station (Eltham)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.147822,
+          -37.71355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19988",
+        "stop_code": null,
+        "stop_name": "Diamond Creek Railway Station (Diamond Creek)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.158506,
+          -37.673297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19989",
+        "stop_code": null,
+        "stop_name": "Wattle Glen Railway Station (Wattle Glen)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.181615,
+          -37.663968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19990",
+        "stop_code": null,
+        "stop_name": "Hurstbridge Railway Station (Hurstbridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.192017,
+          -37.639398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19991",
+        "stop_code": null,
+        "stop_name": "Williamstown Railway Station (Williamstown)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.905323,
+          -37.867753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19992",
+        "stop_code": null,
+        "stop_name": "Williamstown Beach Railway Station (Williamstown)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.894484,
+          -37.863982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19993",
+        "stop_code": null,
+        "stop_name": "North Williamstown Railway Station (Williamstown)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.889069,
+          -37.857333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19994",
+        "stop_code": null,
+        "stop_name": "Newport Railway Station (Newport)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8836,
+          -37.842718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19995",
+        "stop_code": null,
+        "stop_name": "Spotswood Railway Station (Spotswood)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.885933,
+          -37.830639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19996",
+        "stop_code": null,
+        "stop_name": "Yarraville Railway Station (Yarraville)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.889934,
+          -37.81585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "19997",
+        "stop_code": null,
+        "stop_name": "Seddon Railway Station (Seddon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.895672,
+          -37.809005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20000",
+        "stop_code": null,
+        "stop_name": "Watergardens Railway Station (Sydenham)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.77418,
+          -37.701129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20001",
+        "stop_code": null,
+        "stop_name": "Keilor Plains Railway Station (St Albans)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.793738,
+          -37.729279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20002",
+        "stop_code": null,
+        "stop_name": "St Albans Railway Station (St Albans)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80005,
+          -37.744861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20003",
+        "stop_code": null,
+        "stop_name": "Ginifer Railway Station (St Albans)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.809573,
+          -37.757511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20004",
+        "stop_code": null,
+        "stop_name": "Albion Railway Station (Sunshine North)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.824704,
+          -37.777653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20005",
+        "stop_code": null,
+        "stop_name": "Epping Railway Station (Epping)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.030122,
+          -37.652387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20006",
+        "stop_code": null,
+        "stop_name": "Lalor Railway Station (Lalor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.017193,
+          -37.665851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20007",
+        "stop_code": null,
+        "stop_name": "Thomastown Railway Station (Thomastown)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.014279,
+          -37.680338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20008",
+        "stop_code": null,
+        "stop_name": "Keon Park Railway Station (Thomastown)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.011884,
+          -37.69487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20009",
+        "stop_code": null,
+        "stop_name": "Ruthven Railway Station (Reservoir)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.009517,
+          -37.707898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20010",
+        "stop_code": null,
+        "stop_name": "Reservoir Railway Station (Reservoir)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.006996,
+          -37.716885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20011",
+        "stop_code": null,
+        "stop_name": "Regent Railway Station (Reservoir)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.002773,
+          -37.728403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20012",
+        "stop_code": null,
+        "stop_name": "Preston Railway Station (Preston)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.000522,
+          -37.738674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20013",
+        "stop_code": null,
+        "stop_name": "Bell Railway Station (Preston)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.000155,
+          -37.745562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20014",
+        "stop_code": null,
+        "stop_name": "Thornbury Railway Station (Thornbury)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.998572,
+          -37.755052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20015",
+        "stop_code": null,
+        "stop_name": "Croxton Railway Station (Northcote)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.997056,
+          -37.764101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20016",
+        "stop_code": null,
+        "stop_name": "Northcote Railway Station (Northcote)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.995277,
+          -37.769865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20017",
+        "stop_code": null,
+        "stop_name": "Merri Railway Station (Northcote)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.992972,
+          -37.777847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20019",
+        "stop_code": null,
+        "stop_name": "Rushall Railway Station (Fitzroy North)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.992407,
+          -37.783217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20021",
+        "stop_code": null,
+        "stop_name": "Sunshine Railway Station (Sunshine)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.832878,
+          -37.788536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20022",
+        "stop_code": null,
+        "stop_name": "Tottenham Railway Station (West Footscray)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.862945,
+          -37.799251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20023",
+        "stop_code": null,
+        "stop_name": "West Footscray Railway Station (West Footscray)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.885325,
+          -37.801809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20024",
+        "stop_code": null,
+        "stop_name": "Middle Footscray Railway Station (Footscray)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.891472,
+          -37.802505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20025",
+        "stop_code": null,
+        "stop_name": "Footscray Railway Station (Footscray)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.903199,
+          -37.801083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20026",
+        "stop_code": null,
+        "stop_name": "South Kensington Railway Station (Kensington)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.925469,
+          -37.799531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20027",
+        "stop_code": null,
+        "stop_name": "Flemington Racecourse Railway Station (Flemington)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.907589,
+          -37.787202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20028",
+        "stop_code": null,
+        "stop_name": "Showgrounds Railway Station (Flemington)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.914257,
+          -37.783472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20030",
+        "stop_code": null,
+        "stop_name": "Broadmeadows Railway Station (Broadmeadows)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.919613,
+          -37.683049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20031",
+        "stop_code": null,
+        "stop_name": "Jacana Railway Station (Glenroy)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.915851,
+          -37.695131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20032",
+        "stop_code": null,
+        "stop_name": "Glenroy Railway Station (Glenroy)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91722,
+          -37.704536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20033",
+        "stop_code": null,
+        "stop_name": "Oak Park Railway Station (Oak Park)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.921519,
+          -37.71795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20034",
+        "stop_code": null,
+        "stop_name": "Pascoe Vale Railway Station (Pascoe Vale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.928196,
+          -37.730756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20035",
+        "stop_code": null,
+        "stop_name": "Strathmore Railway Station (Essendon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.927316,
+          -37.743591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20036",
+        "stop_code": null,
+        "stop_name": "Glenbervie Railway Station (Essendon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.920939,
+          -37.74721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20037",
+        "stop_code": null,
+        "stop_name": "Essendon Railway Station (Essendon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.916198,
+          -37.756012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20038",
+        "stop_code": null,
+        "stop_name": "Moonee Ponds Railway Station (Moonee Ponds)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.919161,
+          -37.765707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20039",
+        "stop_code": null,
+        "stop_name": "Ascot Vale Railway Station (Ascot Vale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.921821,
+          -37.775306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20040",
+        "stop_code": null,
+        "stop_name": "Newmarket Railway Station (Flemington)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.928978,
+          -37.787328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20041",
+        "stop_code": null,
+        "stop_name": "Kensington Railway Station (Kensington)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.930524,
+          -37.79378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "20042",
+        "stop_code": null,
+        "stop_name": "Box Hill Railway Station (Box Hill)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.121429,
+          -37.819222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "22180",
+        "stop_code": null,
+        "stop_name": "Southern Cross Railway Station (Melbourne City)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.951411,
+          -37.817936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "40220",
+        "stop_code": null,
+        "stop_name": "Roxburgh Park Railway Station (Roxburgh Park)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.935404,
+          -37.638231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "40221",
+        "stop_code": null,
+        "stop_name": "Craigieburn Railway Station (Craigieburn)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94332,
+          -37.601817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "44817",
+        "stop_code": null,
+        "stop_name": "Coolaroo Railway Station (Coolaroo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.926056,
+          -37.661003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "45793",
+        "stop_code": null,
+        "stop_name": "Lynbrook Railway Station (Lynbrook)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.249275,
+          -38.057341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "45794",
+        "stop_code": null,
+        "stop_name": "Cardinia Road Railway Station (Pakenham)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.437791,
+          -38.07129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "45795",
+        "stop_code": null,
+        "stop_name": "South Morang Railway Station (South Morang)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.067032,
+          -37.649159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "46468",
+        "stop_code": null,
+        "stop_name": "Williams Landing Railway Station (Williams Landing)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.747445,
+          -37.869865
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+    <head>
+        <title>Melbourne, where are we going?</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+        <link href="static/css/reset.css" rel="stylesheet" type="text/css" />
+        <link href="static/css/style.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="map_canvas"></div>
+        <div id="panel" class="hidden" style="overflow-y: scroll; height:80%;">
+            <div>
+                <h3>Melbourne, where are we going?</h3><br/>
+                Investigating the links between transport,
+                housing growth and social disadvantage. <br/>
+            <div class="section"><br/>
+            
+                <b>Time machine:</b> <span id="day_time"></span> 
+                <select id="time_multiply">
+                	<option value="-100">-100x</option>
+                	<option value="-10">-10x</option>
+                 	<option value="-5">-5x</option>
+                	<option value="-1"">-1x</option>
+                    <option value="0">Pause</option>
+                    <option value="1" selected="selected">1x</option>
+                    <option value="5">5x</option>
+                    <option value="10">10x</option>
+                    <option value="100">100x</option>
+                    </select><br/>
+                     <br/>Select which layers you'd like to see.<br/>
+                     Take care, this takes a while to load!<br/><br/>
+					<select id="showstops" style="width:200px;">
+                    	<option value="no">-Stop Frequency Hidden-<br>
+						<option value="yes">-Stop Frequency Visible-<br>	
+					</select><br>
+                  
+					<select id="showbuildings" style="width:200px;">
+                    				<option value="no">-Building Approvals Hidden-<br>
+						<option value="yes">-Building Approvals Visible-<br>
+		
+					</select><br>
+					<select id="showvampire" style="width:200px;">
+						<option value="yes">-Vampire Index Visible-<br>
+						<option value="no">-Vampire Index Hidden-<br>
+					</select><br>
+                    <br/><span style="font-size:1.2em"><b>Legend</b></span>
+                    <div class="Legend"><br/>
+                    <b>VAMPIRE Index (2011)</b><br/>
+  					<div class="V_1">&nbsp;</div>
+    				0 - 9 (Minimal Vulnerability)<br/>
+    				<div class="V_2">&nbsp;</div>
+   					10 - 14 (Low Vulnerability)<br/>
+    				<div class="V_3">&nbsp;</div>
+    				15 - 16 (Moderate Vulnerability)<br/>
+                    <div class="V_4">&nbsp;</div>
+    				17 - 18 (High Vulnerability)<br/>
+                    <div class="V_5">&nbsp;</div>
+    				19 - 30 (Very High Vulnerability)<br/>
+                     <a href="http://www.vampire.org.nz/vampire" target="blank_">What do these numbers mean?
+                    </a>          
+                    <br/><br/>
+                    <b>Train Lines</b><br/><br/><center>
+  					<img src="http://govhack.city-informatics.com/static/images/route_icons/south_morang.png"><img src="http://govhack.city-informatics.com/static/images/route_icons/paken_cran.png"><img src="http://govhack.city-informatics.com/static/images/route_icons/sandringham.png"><img src="http://govhack.city-informatics.com/static/images/route_icons/frankston.png"><img src="http://govhack.city-informatics.com/static/images/route_icons/Alamein.png"> </center>  <br/> Individual routes coloured by Melbourne Rail Network
+                  <a href="http://www.theguardian.com/world/2014/apr/21/melbourne-rail-network-map-gets-a-splash-more-colour-in-overhaul" target="blank_">proposed colourful scheme.</a>
+                     <br/><br/>
+                    <b>New Dwellings (2011-4)</b>
+                    <br/>Triangles scaled vertically to show total number of new domestic/residential dwellings between 2011 and 2014 as a proxy for urban growth.<br/>
+                    <center><img src="http://govhack.city-informatics.com/static/images/triangles.png" width="40%"></center>
+                    
+                    <br/>
+                    
+                     <b>Train / Tram Level of Service</b>
+                    <br/>Train and tram stops scaled to show relative level of service throughout the day (number of trips servicing the stop).<br/><center>
+                    <img src="http://govhack.city-informatics.com/static/images/train_tram_legend.png" width="50%"></center>  
+                    </div>
+                    
+                    
+                                <p>
+                <br/><span style="font-size:8px"><br/></center>
+               <b> Acknowledgments</b><br/>  <a href="http://data.vic.gov.au/" target="blank_">PTV General Transit Feed Specification (GTFS)</a>, Vulnerability Analysis of Mortgage, Petroleum and Inflation Risks and Expenditure (VAMPIRE) Index from <a href="http://aurin.org.au/" target="blank_">AURIN</a>, Victorian Building Approvals 2011-4 & Address Database from <a href="https://www.data.vic.gov.au/" target="blank_">Data Vic</a> / <a href="http://nationalmap.nicta.com.au/" target="blank_">National Map</a>.  Many thanks for bits and bobs from <a href="https://github.com/vasile">Vasile</a> and members of the GovHack Melbourne cohort. <br/><br/>
+               
+               <b>Licensing</b><br/>Available under open license for reuse, commercial use, remixing and redistribution via <a href="https://github.com/oliverclock" target="blank_">GitHub</a>. 
+               <br/>
+               
+               <br/><b>Project information</b><br/>Please view our official GovHack entry <a href="http://hackerspace.govhack.org/content/melbourne-where-are-we-going" target="blank_">'Hackerspace'</a> for more information about the inception of this project. <br/><br/></span><center>
+                 <a href="http://govhack.org/" target="blank_"><img src="http://uladl.com/wp-content/uploads/2013/03/govhack_final-final1.png"width="100px" text-align="center"></a>
+               </p> 
+    				</div>
+    				</div>                
+					</div> 
+            </div>
+              </div> 
+        <div id="vehicle_popup_container" class="hidden">
+            <div id="vehicle_popup">
+                <span class="vehicle_name"></span>
+                <br />
+                <p class="status"></p>
+            </div>
+        </div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+        <script src="http://maps.googleapis.com/maps/api/js?v=3.20&amp;sensor=false&amp;libraries=geometry,places"></script>
+        <script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.2.1"></script>
+        <script src="static/js/infobox_packed.js"></script>
+        <script src="static/js/map.js"></script>
+    </body>
+</html>
